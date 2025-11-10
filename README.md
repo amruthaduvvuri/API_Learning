@@ -16,4 +16,15 @@ Today’s learning:
 - Fetched real-time weather info
 - Hid the API key so nobody steals it (security + clean code ✅)
 - Next goal: Build something cool with multiple APIs
+
+ This is **Day 03** of my API learning streak.
+Today, I built a simple Crypto Price Tracker using the public CoinGecko API.
+
+It takes a cryptocurrency name as input (Ex: bitcoin, ethereum, solana) and shows:
+
+- ✅ Current price
+- ✅ 24-hour high & low
+- ✅ 24-hour price change %
+- ✅ Market trend indicator (📈 rising / 📉 falling / stable)
+  
 More learning updates coming soon ✅
