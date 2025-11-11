@@ -26,5 +26,17 @@ It takes a cryptocurrency name as input (Ex: bitcoin, ethereum, solana) and show
 - ✅ 24-hour high & low
 - ✅ 24-hour price change %
 - ✅ Market trend indicator (📈 rising / 📉 falling / stable)
+
+**Day 4 Project**
+
+Currency-Based Product Price Converter
+
+Today I built a small project using two interconnected APIs.
+
+✅ What it does:
+- User enters a product name and a currency (INR, EUR, JPY, etc.)
+- API 1 → Fetches product details and price (USD) from FakeStore API
+- API 2 → Converts the USD price into the selected currency using ExchangeRate API
+- Displays the final converted price to the user
   
 More learning updates coming soon ✅
