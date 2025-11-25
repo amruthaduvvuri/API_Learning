@@ -38,5 +38,14 @@ Today I built a small project using two interconnected APIs.
 - API 1 → Fetches product details and price (USD) from FakeStore API
 - API 2 → Converts the USD price into the selected currency using ExchangeRate API
 - Displays the final converted price to the user
+
+  
+**Day 5 Project**
+
+📦 API Data Extraction
+- Fetched movie data from the TMDB API using my API key.
+- Parsed the JSON response and extracted relevant fields.
+- Organized the data into a Pandas DataFrame.
+- Exported the final output as movie.csv for further analysis and practice.
   
 More learning updates coming soon ✅
